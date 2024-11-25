@@ -3,7 +3,7 @@ Imersão API
 Este é um projeto de backend desenvolvido em Node.js que permite o gerenciamento de posts, incluindo funcionalidades para listar, criar e atualizar posts. O banco de dados utilizado é o MongoDB, e a arquitetura do código segue o padrão MVC (Model-View-Controller). Além de utilizar o **Google Gemini 1.5-flash**, para análise de imagens e geração de descrições automatizadas e contextuais.
 Este é o meu primeiro projeto de backend, desenvolvido durante uma introdução promovida pela Alura.
 
-## Estrutura do Projeto
+Estrutura do Projeto
 
 ```plaintext
 src/
@@ -16,7 +16,7 @@ src/
 ```
 
 ---
-## Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 - **Node.js**: Ambiente de execução.
 - **MongoDB**: Banco de dados NoSQL.
@@ -26,7 +26,7 @@ src/
 
 ---
 
-## Configuração do Projeto
+Configuração do Projeto
 1. **Variáveis de ambiente**:
 
    Crie um arquivo `.env` na raiz do projeto com a seguinte configuração:
